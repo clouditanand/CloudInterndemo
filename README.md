@@ -1,3 +1,15 @@
+<div align="center">
+    <a href="https://idp.cloudplinth.com">
+        <img src="https://cloudplinth.com/wp-content/uploads/2023/04/CloudPlinth_logo-removebg-preview.png" height="128">
+    </a>
+    <h2>Cloud IDP</h2>
+    <p align="center">
+        <p>AI Based ERP System. </p>
+    </p>
+
+</div>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +80,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
